@@ -1,0 +1,10 @@
+{
+  "migration_cost": {
+    "quantity": 42000000,
+    "unit": "entropic"
+  },
+  "leftovers": {
+    "quantity": 42000000,
+    "unit": "entropic"
+  }
+}
